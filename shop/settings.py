@@ -160,7 +160,7 @@ LOGIN_URL = 'login'
 
 LOGIN_REDIRECT_URL = 'home'
 
-API_KEY = '60ab03f8-5cb5-11ec-b710-0200cd936042'
+API_KEY = '*****'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
